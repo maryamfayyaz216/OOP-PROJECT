@@ -1,2 +1,2 @@
-Detective|Result|Credibility|Turns_Left|Culprit|Date
-Dawood|WIN|100|6|Partner 1 - Ms.Ruslana|25-11-26
+========== LEADER / SCORE BOARD ==========
+Player Name | Result | Score
