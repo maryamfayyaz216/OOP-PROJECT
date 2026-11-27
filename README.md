@@ -1,9 +1,9 @@
 # The Locker Heist — Group 2
 
 **Course:** CL1004 — Object Oriented Programming  
-**Section:** CS 3A — Fall 2026  
-**Members:** Ahsan (25F-0722), Farhan (25F-0804)  
-**Instructor:** Zaynab Noor
+**Section:** SE 3B — Fall 2026  
+**Members:** Dawood Khalid (25F-3060), Maryam fayyaz (25F-3099)  
+**Instructor:** Mozeb khan
 
 ## Project files
 
